@@ -1,4 +1,4 @@
-public class Knižnica {
+public class Kniznica {
     Kniha[] k = new Kniha[10];
 
 
